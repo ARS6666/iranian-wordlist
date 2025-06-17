@@ -20,6 +20,8 @@ Generates combinations of Persian first names with all possible birthdates to si
 #### 2. `generate_name_birthyear.py`
 Generates combinations of Persian first names with birth years (e.g., `Sara1365`) in Persian calendars.
 
+#### 3. `generate_phone_number.py`
+Generates combinations of Persian phone numbers.
 ---
 
 ## 🚀 Usage
