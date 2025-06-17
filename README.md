@@ -15,10 +15,10 @@ A curated collection of Iranian-themed wordlists and password generators. This p
 ### 🐍 Python Scripts
 
 #### 1. `generate_name_birthdate.py`
-Generates combinations of Persian first names with all possible birthdates (in `DDMMYYYY` format) to simulate common weak password patterns.
+Generates combinations of Persian first names with all possible birthdates to simulate common weak password patterns.
 
 #### 2. `generate_name_birthyear.py`
-Generates combinations of Persian first names with birth years (e.g., `Ali1990`, `Sara1365`) in both Gregorian and Persian calendars.
+Generates combinations of Persian first names with birth years (e.g., `Sara1365`) in Persian calendars.
 
 ---
 
