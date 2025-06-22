@@ -8,7 +8,7 @@ def is_valid_date(day, month, year):
     else:
         return day <= 29
 
-def generate_birthdates(name, start_year=1350, end_year=1400, output_file="name_birthdates.txt"):
+def generate_birthdates(name, start_year=1350, end_year=1404, output_file="name_birthdates.txt"):
     with open(output_file, "w", encoding="utf-8") as f:
         for year in range(start_year, end_year + 1):
             for month in range(1, 13):
