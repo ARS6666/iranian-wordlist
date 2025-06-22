@@ -22,6 +22,12 @@ Generates combinations of Persian first names with birth years (e.g., `Sara1365`
 
 #### 3. `generate_phone_number.py`
 Generates combinations of Persian phone numbers.
+
+#### 3. `generate_phone_pattern.py`
+Generates combinations of Persian phone numbers.
+
+#### 3. `generate_phone_Myear.py`
+Generates combinations of Persian phone numbers.
 ---
 
 ## 🚀 Usage
